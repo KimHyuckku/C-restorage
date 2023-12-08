@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\work\cir\main.cpp(9,89): warning C4101: 'handed_charge' :참조되지 않은 지역 변수입니다.
+C:\work\cir\main.cpp(9,82): warning C4101: 'money' :참조되지 않은 지역 변수입니다.
+  cir.vcxproj -> C:\work\cir\x64\Debug\cir.exe
