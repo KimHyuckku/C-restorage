@@ -1,0 +1,2 @@
+C:\work\cafe\x64\Debug\cafe.exe
+C:\work\Cpp\cafe\x64\Debug\cafe.exe
